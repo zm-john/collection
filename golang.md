@@ -1,3 +1,7 @@
 ## GO
 ### 异步队列
-* https://github.com/RichardKnop/machinery
+* [github.com/RichardKnop/machinery](https://github.com/RichardKnop/machinery)
+
+### 定时任务
+* [github.com/robfig/cron](https://github.com/robfig/cron)
+
